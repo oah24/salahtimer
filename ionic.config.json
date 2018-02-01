@@ -1,0 +1,8 @@
+{
+  "name": "salahtimer",
+  "app_id": "93dbcf9d",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
